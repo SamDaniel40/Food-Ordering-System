@@ -60,7 +60,7 @@ Includes user interfaces for registration, menu browsing, order placement, payme
 
 7. Payment
 
-![image](https://github.com/user-attachments/assets/f359e173-c932-4eb0-b515-f71a5ae9de33) ![image](https://github.com/user-attachments/assets/0cc630ed-5466-440a-80b6-f63f8da7415c) ![image](https://github.com/user-attachments/assets/11f9f4ca-a480-493f-8aff-a38fca276b59)
+![image](https://github.com/user-attachments/assets/11f9f4ca-a480-493f-8aff-a38fca276b59)
 
 
 9. Admin Actions

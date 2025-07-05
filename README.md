@@ -3,7 +3,7 @@
 A web-based application built with ASP.NET and SQL Server to streamline and modernize the process of ordering food online. This system allows users to browse menus, place and track orders, and manage their accounts with ease—while offering restaurants powerful tools for order and customer management.
 
 
-
+---
 
 🚀 Features
 
@@ -24,7 +24,7 @@ A web-based application built with ASP.NET and SQL Server to streamline and mode
 🔐 Data Security & Backups
 
 
-
+---
 
 💻 Tech Stack
 
@@ -37,14 +37,14 @@ Web Server	IIS 7.5+
 Framework	.NET Framework 4.0+
 
 
-
+---
 
 📱 Screenshots
 
 Includes user interfaces for registration, menu browsing, order placement, payment, admin actions, and email status updates.
 
 
-
+---
 
 🎯 Objectives
 
@@ -57,7 +57,7 @@ Enable restaurants to analyze sales, manage inventory, and improve operations
 Ensure secure handling of customer and transaction data
 
 
-
+---
 
 🔮 Future Scope
 
@@ -74,7 +74,7 @@ Ensure secure handling of customer and transaction data
 📈 Use AI for personalized recommendations and trend analysis
 
 
-
+---
 
 🧩 System Modules / Panels
 
@@ -89,9 +89,6 @@ Admin Login
 Forgot Password (optional)
 
 
-
----
-
 🍔 2. Menu Management Panel (Admin)
 
 Add Menu Items (name, category, description, price)
@@ -104,9 +101,6 @@ Search Menu Items
 
 Update Item Availability Status
 
-
-
----
 
 👥 3. Customer Panel
 
@@ -125,9 +119,6 @@ View Order History
 Manage Delivery Address & Payment Info
 
 
-
----
-
 🛒 4. Order Management Panel (Admin)
 
 View New Orders
@@ -138,9 +129,6 @@ Order Search by Customer, Date, or Status
 
 Cancel or Modify Orders
 
-
-
----
 
 💳 5. Payment Panel
 
@@ -153,9 +141,6 @@ View Payment History
 Filter Payments by Date/Customer
 
 
-
----
-
 📊 6. Reports Panel (Admin)
 
 Order History Report
@@ -166,9 +151,6 @@ Sales Analytics
 
 Customer-wise Order Summary
 
-
-
----
 
 📧 7. Email Notification Panel
 

@@ -59,23 +59,6 @@ Ensure secure handling of customer and transaction data
 
 ---
 
-🔮 Future Scope
-
-📱 Develop a mobile app version (Android/iOS)
-
-🏪 Multi-restaurant support with centralized management
-
-⭐ Add customer reviews & ratings
-
-🤖 Integrate chatbots for automated customer support
-
-🎁 Implement loyalty programs & promotions
-
-📈 Use AI for personalized recommendations and trend analysis
-
-
----
-
 🧩 System Modules / Panels
 
 🔐 1. Authentication Panel
@@ -165,5 +148,22 @@ Send Email on:
 > Out for Delivery
 
 > Order Delivered
+
+
+---
+
+🔮 Future Scope
+
+📱 Develop a mobile app version (Android/iOS)
+
+🏪 Multi-restaurant support with centralized management
+
+⭐ Add customer reviews & ratings
+
+🤖 Integrate chatbots for automated customer support
+
+🎁 Implement loyalty programs & promotions
+
+📈 Use AI for personalized recommendations and trend analysis
 
 

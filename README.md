@@ -30,9 +30,9 @@ A web-based application built with ASP.NET and SQL Server to streamline and mode
 
 Component	Technology
 
-Frontend	ASP.NET Web Forms
-Backend	C# (Visual Studio 2022)
-Database	SQL Server Management Studio 20.2
+Frontend 	ASP.NET Web Forms
+Backend 	C# (Visual Studio 2022)
+Database	 SQL Server Management Studio 20.2
 Web Server	IIS 7.5+
 Framework	.NET Framework 4.0+
 

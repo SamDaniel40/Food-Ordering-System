@@ -41,7 +41,39 @@ Framework	.NET Framework 4.0+
 
 📱 Screenshots
 
-Includes user interfaces for registration, menu browsing, order placement, payment, admin actions, and email status updates.
+Includes user interfaces for registration, menu browsing, order placement, payment, admin actions, and order status updates.
+
+1. Registration
+
+![image](https://github.com/user-attachments/assets/067a941a-41db-4fa7-9fc1-f5e9980fbafa)
+
+
+2. Menu Browsing
+
+![image](https://github.com/user-attachments/assets/49b2664a-1238-4b21-b299-44024094882a)
+
+
+5. Order Placement
+
+![image](https://github.com/user-attachments/assets/8bef5178-1f88-48fd-9c38-af88363bc3dc)
+
+
+7. Payment
+
+![image](https://github.com/user-attachments/assets/f359e173-c932-4eb0-b515-f71a5ae9de33) ![image](https://github.com/user-attachments/assets/0cc630ed-5466-440a-80b6-f63f8da7415c) ![image](https://github.com/user-attachments/assets/11f9f4ca-a480-493f-8aff-a38fca276b59)
+
+
+9. Admin Actions
+
+![image](https://github.com/user-attachments/assets/b49bfce9-3873-4409-85cc-e82636e638bf)
+
+
+11. Order Status Updates
+
+![image](https://github.com/user-attachments/assets/f72b05f8-e8fa-492b-8a59-d9a03cc0c995)
+![image](https://github.com/user-attachments/assets/33933fa0-d9f7-4c66-b5fd-72819f4aa002)
+![image](https://github.com/user-attachments/assets/0ffed62b-d0c4-42b7-b083-0d27e8f2f74d)
+![image](https://github.com/user-attachments/assets/992c95e4-4721-487f-982c-cc87035ae7cb)
 
 
 ---

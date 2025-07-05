@@ -80,90 +80,90 @@ Ensure secure handling of customer and transaction data
 
 🔐 1. Authentication Panel
 
-User Registration
+> User Registration
 
-Login with Validation
+> Login with Validation
 
-Admin Login
+> Admin Login
 
-Forgot Password (optional)
+> Forgot Password (optional)
 
 
 🍔 2. Menu Management Panel (Admin)
 
-Add Menu Items (name, category, description, price)
+> Add Menu Items (name, category, description, price)
 
-Edit Menu Items
+> Edit Menu Items
 
-Delete Menu Items
+> Delete Menu Items
 
-Search Menu Items
+> Search Menu Items
 
-Update Item Availability Status
+> Update Item Availability Status
 
 
 👥 3. Customer Panel
 
-View Profile / Edit Details
+> View Profile / Edit Details
 
-Browse Menu
+> Browse Menu
 
-Add Items to Cart
+> Add Items to Cart
 
-Place Orders
+> Place Orders
 
-Track Order Status
+> Track Order Status
 
-View Order History
+> View Order History
 
-Manage Delivery Address & Payment Info
+> Manage Delivery Address & Payment Info
 
 
 🛒 4. Order Management Panel (Admin)
 
-View New Orders
+> View New Orders
 
-Update Order Status (Pending → Confirmed → Out for Delivery → Delivered)
+> Update Order Status (Pending → Confirmed → Out for   Delivery → Delivered)
 
-Order Search by Customer, Date, or Status
+> Order Search by Customer, Date, or Status
 
-Cancel or Modify Orders
+> Cancel or Modify Orders
 
 
 💳 5. Payment Panel
 
-Choose Payment Method (Online/Cash)
+> Choose Payment Method (Online/Cash)
 
-Process Payment
+> Process Payment
 
-View Payment History
+> View Payment History
 
-Filter Payments by Date/Customer
+> Filter Payments by Date/Customer
 
 
 📊 6. Reports Panel (Admin)
 
-Order History Report
+> Order History Report
 
-Payment Report
+> Payment Report
 
-Sales Analytics
+> Sales Analytics
 
-Customer-wise Order Summary
+> Customer-wise Order Summary
 
 
 📧 7. Email Notification Panel
 
 Send Email on:
 
-User Registration
+> User Registration
 
-Order Confirmation
+> Order Confirmation
 
-Order Delay
+> Order Delay
 
-Out for Delivery
+> Out for Delivery
 
-Order Delivered
+> Order Delivered
 
 
